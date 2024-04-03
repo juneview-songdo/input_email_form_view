@@ -15,7 +15,7 @@
     ```
 3. start the project by entering the following command.
     ```bash
-    flutter run lib/app/_/_/interaction/view.blueprint/page/input_email_form_view/_/view.dart] -d chrome
+    flutter run lib/app/_/_/interaction/view.blueprint/page/input_email_form_view/_/view.dart -d chrome
     ```
 
 ## Screenshots
