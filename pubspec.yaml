@@ -3,7 +3,7 @@ description: "Input Email Form View by June"
 #publish_to: 'none'
 repository: https://github.com/juneview-songdo/input_email_form_view
 
-version: 1.0.1
+version: 1.0.3
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
